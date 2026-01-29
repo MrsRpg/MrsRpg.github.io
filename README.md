@@ -4,5 +4,5 @@ index.html
 
 
 <head>
-<h4>hola</h4>
+<h6>hola</h6>
 </head>
