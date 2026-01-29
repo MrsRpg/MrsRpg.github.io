@@ -1,6 +1,9 @@
-<index.html>
+index.html
 
-<head>
+<html>
+
+<header>
 <h6>hola</h6>
-</head>
-</index.html>
+</header>
+
+</html>
